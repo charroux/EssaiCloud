@@ -17,6 +17,8 @@ Ce programme :
 
   https://github.com/charroux/EssaiCloud/blob/master/src/com/TacheDeFondServlet.java
 
+  Ce code écrit dans la base de données objet Datastore.
+  
   L'association entre l'url et le code java se fait dans le fichier web.xml :
   
   https://github.com/charroux/EssaiCloud/blob/master/war/WEB-INF/web.xml
